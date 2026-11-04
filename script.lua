@@ -1,4 +1,3 @@
-
 -- KAZ Mobile GUI Demo
 -- For a Roblox experience you own.
 -- Place this LocalScript in StarterPlayerScripts.
